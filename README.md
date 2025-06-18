@@ -1,1 +1,1 @@
-# dot-challenge
+# Dot Internship Challenge (Quiz App)
